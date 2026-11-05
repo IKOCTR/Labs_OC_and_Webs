@@ -1,4 +1,4 @@
-# Лабораторная #1 "Введение в виртуальные машины и установка Debian"
+<img width="625" height="313" alt="image" src="https://github.com/user-attachments/assets/f6ee3122-d975-4a55-91bd-77fca8053bc1" /># Лабораторная #1 "Введение в виртуальные машины и установка Debian"
 Выполнил: Шмаль Константин Иванович ИЭ-25
 
 <div align="center">
@@ -13,7 +13,11 @@
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_2.png" />
   
   # 3.	Обновление системы:
-  <p>o	Выполнил обновление системы, используя sudo apt-get update и sudo apt-get upgrade.</p>
+  <p> o	Настроил подключение к интернету через NAT и Bridged. </p>
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_5.png" />
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_6.png" />
+  
+  <p> o	Выполнил обновление системы, используя sudo apt-get update и sudo apt-get upgrade. </p>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_3.png" />
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_4.png" />
   
