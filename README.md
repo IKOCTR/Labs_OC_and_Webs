@@ -37,6 +37,11 @@
   <p>Создал директорию .shh для ключа (проверил что дир. создалась корректно)</p>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_11.png" />
   <p>В файл с ключом, записал ключ-pub (замок) из хоста (который создал пару шагов назад)</p>
+  <p>Установил права доступа к .shh директории и файлу с ключом-pub (для корректной работы)</p>
+  <p>700 и 600 ?</p>
+  <p>1-ая цифра: Владелец файла</p>
+  <p>2-ая цифра: Группа в которую входит владелец файла</p>
+  <p>3-ая цифра: Остальные пользователи</p>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
 </div>
