@@ -21,5 +21,9 @@
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_4.png" />
   
   # 4. Настройка SSH:
-  <p></p>
+  <p> o	Установил и настроил SSH-сервер. </p>
+  <p>Установка SSH пакетов (-y : Согласие на все вопросы)</p>
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_7.png" />
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_8.png" />
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_9.png" />
 </div>
