@@ -28,5 +28,7 @@
   <p> (--now : включить службу сейчас без перезагрузки) </p>
   <p> (systemctl enable : авто-загрузка служб)</p>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_8.png" />
+  <p> o Подключился по SSH с основного ПК к ВМ </p>
+  <p>По паролю:</p>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_9.png" />
 </div>
