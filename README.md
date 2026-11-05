@@ -1,4 +1,3 @@
-<img width="625" height="313" alt="image" src="https://github.com/user-attachments/assets/f6ee3122-d975-4a55-91bd-77fca8053bc1" /># Лабораторная #1 "Введение в виртуальные машины и установка Debian"
 Выполнил: Шмаль Константин Иванович ИЭ-25
 
 <div align="center">
