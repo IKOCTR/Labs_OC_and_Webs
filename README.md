@@ -9,4 +9,11 @@
   <p> o	Скачал ISO-образ Debian и установил его на виртуальную машину. </p>
   <p> o	Настроил основные параметры </p>
   <img width="50%" height="50%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_2.png" />
+
+  # 3.	Обновление системы:
+  <p>o	Выполнил обновление системы, используя sudo apt-get update и sudo apt-get upgrade.</p>
+  <img width="50%" height="50%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_3.png" />
+  <img width="50%" height="50%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_4.png" />
+  <p></p>
+  <p></p>
 </div>
