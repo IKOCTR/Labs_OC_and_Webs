@@ -50,6 +50,7 @@
     <p><strong> Формулы: </strong></p>
     <p> Цифра 7 (4 + 2 + 1) : Можно Читать/Редакт/Выполнять </p>
     <p> Цифра 6 (4 + 2) : Можно Читать и Редактировать </p>
+    <p> Для папки даем все, для файла с ключом запуск не требуеться (это не программа)</p>
   </div>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
