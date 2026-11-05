@@ -48,6 +48,8 @@
     <p>2 — Редактирование/Запись (Write)</p>
     <p>1 —  Выполнение/Вход в папку (Execute)</p>
     <p><strong> Формулы: </strong></p>
+    <p> Цифра 7 (4 + 2 + 1) : Можно Читать/Редакт/Выполнять </p>
+    <p> Цифра 6 (4 + 2) : Можно Читать и Редактировать </p>
   </div>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
