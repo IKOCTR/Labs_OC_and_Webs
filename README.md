@@ -38,6 +38,8 @@
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_11.png" />
   <p>В файл с ключом, записал ключ-pub (замок) из хоста (который создал пару шагов назад)</p>
   <p>Установил права доступа к .shh директории и файлу с ключом-pub (для корректной работы)</p>
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
+  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
   <div align="left">
     <p><strong> "700 и 600" ? : </strong></p>
     <p>1-ая цифра: Владелец файла</p>
@@ -52,6 +54,4 @@
     <p> Цифра 6 (4 + 2) : Можно Читать и Редактировать </p>
     <p> Для папки даем все, для файла с ключом запуск не требуеться (это не программа)</p>
   </div>
-  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
-  <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
 </div>
