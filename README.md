@@ -43,11 +43,11 @@
     <p>1-ая цифра: Владелец файла</p>
     <p>2-ая цифра: Группа в которую входит владелец файла</p>
     <p>3-ая цифра: Остальные пользователи</p>
-    <p>           Обозначения:</p>
+    <p><strong> Обозначения: </strong></p>
     <p>4 — Чтение (Read)</p>
     <p>2 — Редактирование/Запись (Write)</p>
     <p>1 —  Выполнение/Вход в папку (Execute)</p>
-    <p>           Формулы:</p>
+    <p><strong> Формулы: </strong></p>
   </div>
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_12.png" />
   <img width="70%" height="70%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_13.png" />
