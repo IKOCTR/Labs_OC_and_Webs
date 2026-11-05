@@ -5,6 +5,6 @@ o	Создал новую виртуальную машину, выделив д
 <img width="50%" height="50%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_1.png" />
 
 # 2. Установка Debian:
-o	Скачал ISO-образ Debian и установил его на виртуальную машину.
+o	Скачал ISO-образ Debian и установил его на виртуальную машину. <\n>
 o	Настроил основные параметры
 <img width="50%" height="50%" alt="image" src="https://github.com/IKOCTR/Labs_OC_and_Webs/blob/main/Lab1_2.png" />
